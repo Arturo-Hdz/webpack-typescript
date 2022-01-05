@@ -1,2 +1,2 @@
 # webpack-typescript
-#  The Net Ninja
+ The Net Ninja
